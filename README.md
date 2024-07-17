@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/8db1f482-d7de-4c4d-8403-7161f1768f24)
 # Rune Marketplace API
 
 The Rune Guardian's Rune marketplace api backend is a Node.js project providing RESTful API endpoints for managing marketplace listings and offers using MongoDB. This project integrates essential middleware, environment variable configurations, and includes detailed API documentation via Swagger UI.
@@ -19,7 +19,7 @@ Configuration settings are sourced from a `.env` file and a config module. Ensur
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/asseph/rune-marketplace-apis.git
+    git clone https://github.com/ptc-bink/ordinal-rune-marketplace-api.git
     cd rune-marketplace-apis
     ```
 
