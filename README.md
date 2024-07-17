@@ -19,7 +19,7 @@ Configuration settings are sourced from a `.env` file and a config module. Ensur
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ptc-bink/ordinal-rune-marketplace-api.git
+    git clone https://github.com/ptc-bink/rune-marketplace-api.git
     cd rune-marketplace-apis
     ```
 
